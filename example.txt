@@ -1,1 +1,2 @@
 This is an example for test
+I've made a change.
